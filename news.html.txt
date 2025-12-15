@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Economics News Reports</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Latest Economics News</h1>
+
+<ul>
+    <li><strong>UK Inflation Hits 5.4%:</strong> The UK is facing a cost-of-living crisis as inflation rises to its highest level in over a decade.</li>
+    <li><strong>Interest Rates Rise to 0.25%:</strong> The Bank of England has increased interest rates in response to inflationary pressures.</li>
+    <li><strong>Global Supply Chain Disruptions:</strong> Ongoing global supply chain disruptions are causing delays in production and shipping worldwide.</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to Home</a>
+
+</body>
+</html>

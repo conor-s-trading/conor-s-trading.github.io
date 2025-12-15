@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GCSE Economics Definitions</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>GCSE Economics Key Definitions</h1>
+
+<ul>
+    <li><strong>Scarcity:</strong> Limited resources available to meet unlimited wants.</li>
+    <li><strong>Opportunity Cost:</strong> The cost of forgoing the next best alternative when making a decision.</li>
+    <li><strong>Demand:</strong> The quantity of a good or service that consumers are willing and able to buy at a given price.</li>
+    <li><strong>Supply:</strong> The quantity of a good or service that producers are willing and able to sell at a given price.</li>
+    <li><strong>Market Equilibrium:</strong> When the quantity demanded equals the quantity supplied at a given price.</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to GCSE</a>
+
+</body>
+</html>

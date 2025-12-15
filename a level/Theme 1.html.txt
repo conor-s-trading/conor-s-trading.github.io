@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A-Level Theme 1: Introduction to Economics</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>A-Level Theme 1: Introduction to Economics</h1>
+
+<p>
+Theme 1 covers the foundations of economics, exploring how markets work, the role of government, and how economic agents (consumers, firms, and government) make decisions.
+</p>
+
+<h2>Key Topics</h2>
+<ul>
+    <li>Basic Economic Problem</li>
+    <li>Opportunity Cost</li>
+    <li>Demand and Supply</li>
+    <li>Market Failure</li>
+    <li>Government Intervention</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to A-Level</a>
+
+</body>
+</html>

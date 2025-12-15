@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Useful Economics Statistics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Useful Economics Statistics</h1>
+
+<ul>
+    <li>UK Inflation Target: 2%</li>
+    <li>Bank of England Base Rate: 0.1%</li>
+    <li>UK GDP Growth Rate: 1.4% (2021)</li>
+    <li>Unemployment Rate: 4.8% (2021)</li>
+    <li>UK National Debt: ~100% of GDP</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to Home</a>
+
+</body>
+</html>

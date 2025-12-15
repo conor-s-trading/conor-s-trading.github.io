@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A-Level Economics Definitions</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>A-Level Economics Key Definitions</h1>
+
+<ul>
+    <li><strong>Aggregate Demand (AD):</strong> The total demand for goods and services in an economy at a given overall price level and in a given period.</li>
+    <li><strong>Aggregate Supply (AS):</strong> The total supply of goods and services that producers in an economy are willing to supply at a given overall price level in a given period.</li>
+    <li><strong>Fiscal Policy:</strong> Government policy related to taxation and spending to influence the economy.</li>
+    <li><strong>Monetary Policy:</strong> Central bank actions involving the management of interest rates and money supply to influence the economy.</li>
+    <li><strong>Unemployment Rate:</strong> The percentage of the workforce that is unemployed and actively seeking work.</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to A-Level</a>
+
+</body>
+</html>

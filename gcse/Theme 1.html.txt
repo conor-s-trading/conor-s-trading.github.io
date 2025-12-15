@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GCSE Theme 1: Introduction to Economics</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>GCSE Theme 1: Introduction to Economics</h1>
+
+<p>
+Theme 1 introduces students to the fundamentals of Economics, focusing on the basic economic problem and how society allocates scarce resources.
+</p>
+
+<h2>Key Topics</h2>
+<ul>
+    <li>Scarcity and Choice</li>
+    <li>Opportunity Cost</li>
+    <li>Factors of Production</li>
+    <li>Economic Systems</li>
+    <li>Market Equilibrium</li>
+</ul>
+
+<a href="index.html" class="back">⬅ Back to GCSE</a>
+
+</body>
+</html>
